@@ -13,9 +13,9 @@
 <h2 align="left">Current Stack</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/codepen-icon.svg" height="40" alt="codepen logo"/>
@@ -24,13 +24,13 @@
 
 <!-- <h2 align="left">Coming Soon:</h2> -->
 <!-- <div align="left"> -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" style="margin-right: 4px"/>-->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" style="margin-right: 4px"/> -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" style="margin-right: 4px"/> -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" style="margin-right: 4px"/> -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo" style="margin-right: 4px"/> -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" style="margin-right: 4px"/> -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo" style="margin-right: 4px"/> -->
+  <!-- <img src="#" height="40" alt="javascript logo" style="margin-right: 4px"/>-->
+  <!-- <img src="#" height="40" alt="react logo" style="margin-right: 4px"/> -->
+  <!-- <img src="#" height="40" alt="nextjs logo" style="margin-right: 4px"/> -->
+  <!-- <img src="#" height="40" alt="typescript logo" style="margin-right: 4px"/> -->
+  <!-- <img src="#" height="40" alt="angularjs logo" style="margin-right: 4px"/> -->
+  <!-- <img src="#" height="40" alt="bootstrap logo" style="margin-right: 4px"/> -->
+  <!-- <img src="#" height="40" alt="tailwindcss logo" style="margin-right: 4px"/> -->
 
 <!-- </div> -->
 
@@ -38,10 +38,10 @@
 
 <!-- <h2 align="left">Down the Pipes</h2> -->
 <!-- <div align="left"> -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" style="margin-right: 4px"/> -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"/> -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" style="margin-right: 4px"/> -->
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" style="margin-right: 4px"/> -->
+  <!-- <img src="#" height="40" alt="java logo" style="margin-right: 4px"/> -->
+  <!-- <img src="#" height="40" alt="cplusplus logo"/> -->
+  <!-- <img src="#" height="40" alt="python logo" style="margin-right: 4px"/> -->
+  <!-- <img src="#" height="40" alt="php logo" style="margin-right: 4px"/> -->
 <!-- </div> -->
 
 ###
