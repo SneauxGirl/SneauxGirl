@@ -6,7 +6,7 @@
 
 <h2 align="left">About Me</h2>
 
-<p align="left">🌱 10+ years creating and implementing scalable systems with organic adoption<br>🎯 No user left behind—full access and experience across all devices<br>🎏 Passion project: Liyu Development<br>🇨🇦 Dual citizen 🇺🇸 | SF Bay Area | Chicago</p>
+<p align="left">🌱 10+ years creating and implementing scalable systems with organic adoption<br>🎯 No user left behind—full access and experience across all devices<br>🎏 Passion project: Liyu Development website design<br>🇨🇦 Dual citizen 🇺🇸 | SF Bay Area | Chicago</p>
 
 ###
 
@@ -17,15 +17,13 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/codepen-icon.svg" height="40" alt="codepen logo"/>
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"/>&nbsp;
 </div>
 
 
 <!-- <h2 align="left">Coming Soon:</h2> -->
 <!-- <div align="left"> -->
-  <!-- <img src="#" height="40" alt="javascript logo" style="margin-right: 4px"/>-->
-  <!-- <img src="#" height="40" alt="react logo" style="margin-right: 4px"/> -->
   <!-- <img src="#" height="40" alt="nextjs logo" style="margin-right: 4px"/> -->
   <!-- <img src="#" height="40" alt="typescript logo" style="margin-right: 4px"/> -->
   <!-- <img src="#" height="40" alt="angularjs logo" style="margin-right: 4px"/> -->
