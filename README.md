@@ -22,13 +22,13 @@
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />&nbsp;
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />&nbsp;
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo" />
   
 
 </div>
 
 <!-- <h2 align="left">Coming Soon:</h2> -->
 <!-- <div align="left"> -->
-  <!-- <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo" style="margin-right: 4px"/> -->
   <!-- <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo" style="margin-right: 4px"/> -->
   <!-- <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" style="margin-right: 4px"/> -->
 <!-- </div> -->
