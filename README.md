@@ -16,6 +16,7 @@ I love learning new coding languages and solving problems before they start
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo" />&nbsp;
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />&nbsp;
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo" />&nbsp;
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />&nbsp;
   <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo" /> &nbsp;
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" />&nbsp;
